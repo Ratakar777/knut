@@ -1,0 +1,44 @@
+Uri: https://knut.wtf/
+File Name: C:\work\Downloaded Web Sites\shablons\knut.wtf\index.htm
+Content Type: text/html
+
+Uri: https://knut.wtf/assets/index-Bynoa5Le.css
+File Name: C:\work\Downloaded Web Sites\shablons\knut.wtf\assets\index-Bynoa5Le.css
+Content Type: text/css
+
+Uri: https://knut.wtf/assets/index-qOb1oikW.js
+File Name: C:\work\Downloaded Web Sites\shablons\knut.wtf\assets\index-qOb1oikW.js
+Content Type: application/javascript
+
+Uri: https://knut.wtf/fonts/ms_sans_serif.woff
+File Name: C:\work\Downloaded Web Sites\shablons\knut.wtf\fonts\ms_sans_serif.woff
+Content Type: application/font-woff
+
+Uri: https://knut.wtf/fonts/ms_sans_serif.woff2
+File Name: C:\work\Downloaded Web Sites\shablons\knut.wtf\fonts\ms_sans_serif.woff2
+Content Type: application/octet-stream
+
+Uri: https://knut.wtf/fonts/ms_sans_serif_bold.woff
+File Name: C:\work\Downloaded Web Sites\shablons\knut.wtf\fonts\ms_sans_serif_bold.woff
+Content Type: application/font-woff
+
+Uri: https://knut.wtf/fonts/ms_sans_serif_bold.woff2
+File Name: C:\work\Downloaded Web Sites\shablons\knut.wtf\fonts\ms_sans_serif_bold.woff2
+Content Type: application/octet-stream
+
+Uri: https://knut.wtf/fonts/Perfect DOS VGA 437.ttf
+File Name: C:\work\Downloaded Web Sites\shablons\knut.wtf\fonts\Perfect DOS VGA 437.ttf
+Content Type: application/octet-stream
+
+Uri: https://knut.wtf/img/favicon.svg
+File Name: C:\work\Downloaded Web Sites\shablons\knut.wtf\img\favicon.svg
+Content Type: image/svg+xml
+
+Uri: https://knut.wtf/img/flappy/bg.png
+File Name: C:\work\Downloaded Web Sites\shablons\knut.wtf\img\flappy\bg.png
+Content Type: image/png
+
+Uri: https://knut.wtf/img/flappy/scoreWrapper.svg
+File Name: C:\work\Downloaded Web Sites\shablons\knut.wtf\img\flappy\scoreWrapper.svg
+Content Type: image/svg+xml
+
